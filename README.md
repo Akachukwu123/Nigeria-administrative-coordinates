@@ -161,11 +161,15 @@ Users intending to apply the data to surveying, cadastral mapping, electoral bou
 
 ## Data Sources and Attribution
 
-**Source:** [Insert the original data source or reference, where applicable.]
+The geographic coordinates and location references in this dataset were compiled through the interpretation and cross-referencing of multiple geographic information sources, including:
 
-Information about the original coordinate collection methodology, verification process and update history should be documented here as it becomes available.
+- **Online Maps:** Geographic location references and coordinate observations obtained from digital mapping platforms.
 
-Contributions that improve data quality, coordinate verification, documentation and geographic coverage are welcome.
+- **Registered Land Parcels:** Geographic information associated with registered land parcels within the respective areas, used as additional spatial references.
+
+- **Satellite Imagery:** Satellite imagery used to examine geographic features, identify locations and support coordinate referencing.
+
+These sources were used collectively to organise and develop the ward-level geographic reference dataset.
 
 ## Contributions
 
