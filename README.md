@@ -6,7 +6,7 @@ A structured geospatial dataset containing geographic coordinates for Nigeria's 
 
 The **Nigeria Administrative Coordinates** project is a structured geographic reference dataset designed to make administrative location information in Nigeria more accessible to GIS professionals, software developers, researchers and organisations working with geographic information.
 
-The dataset organises Nigeria's administrative divisions into a hierarchical JSON structure, with individual ward records containing their names and corresponding geographic coordinates (latitude and longitude).
+The dataset organises Nigeria's administrative divisions into a hierarchical structure, available in both **JSON and GeoJSON formats**, with individual ward records containing their names and corresponding geographic coordinates (latitude and longitude).
 
 It is intended to support the development of location-based applications, interactive mapping platforms, GIS workflows, spatial data analysis and other geospatial solutions that require structured administrative location information.
 
